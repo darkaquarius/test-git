@@ -12,4 +12,8 @@ public class Test {
         System.out.println("this is master");
     }
 
+    public static void test() {
+        System.out.println("this is dev");
+    }
+
 }
