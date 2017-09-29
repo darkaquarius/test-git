@@ -12,8 +12,4 @@ public class Test {
         System.out.println("master");
     }
 
-    public static void master2() {
-        System.out.println("master2");
-    }
-
 }
