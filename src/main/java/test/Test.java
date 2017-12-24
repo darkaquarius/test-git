@@ -24,4 +24,8 @@ public class Test {
         System.out.println("master5");
     }
 
+    public static void master6() {
+        System.out.println("master6");
+    }
+
 }
