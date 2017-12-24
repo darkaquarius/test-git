@@ -16,4 +16,8 @@ public class Test {
         System.out.println("master2");
     }
 
+    public static void master4() {
+        System.out.println("master4");
+    }
+
 }
