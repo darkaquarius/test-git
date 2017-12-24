@@ -20,4 +20,8 @@ public class Test {
         System.out.println("master4");
     }
 
+    public static void master5() {
+        System.out.println("master5");
+    }
+
 }
