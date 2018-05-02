@@ -32,4 +32,8 @@ public class Test {
         System.out.println("master7");
     }
 
+    public static void master8() {
+        System.out.println("master8");
+    }
+
 }
