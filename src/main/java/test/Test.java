@@ -28,4 +28,8 @@ public class Test {
         System.out.println("master6");
     }
 
+    public static void master7() {
+        System.out.println("master7");
+    }
+
 }
