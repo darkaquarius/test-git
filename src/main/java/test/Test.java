@@ -11,8 +11,8 @@ public class Test {
         System.out.println("hello world");
     }
 
-    public static void master() {
-        System.out.println("this is master");
+    public static void master1() {
+        System.out.println("this is master1");
     }
 
 }
