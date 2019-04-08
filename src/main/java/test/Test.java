@@ -19,4 +19,8 @@ public class Test {
         System.out.println("this is dev");
     }
 
+    public static void testMaster() {
+        System.out.println("this is testMaster");
+    }
+
 }
