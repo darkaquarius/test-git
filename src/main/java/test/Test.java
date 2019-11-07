@@ -11,4 +11,8 @@ public class Test {
         System.out.println("hello world");
     }
 
+    public static void dev() {
+        System.out.println("this is dev");
+    }
+
 }
