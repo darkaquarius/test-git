@@ -21,4 +21,8 @@ public class Test {
     public static void dev4() {
         System.out.println("this is dev4");
     }
+
+    public static void dev5() {
+        System.out.println("this is dev5");
+    }
 }
