@@ -13,4 +13,8 @@ public class Test2 {
         System.out.println("this is dev2_3");
     }
 
+    public static void dev2_2() {
+        System.out.println("this is dev2_2");
+    }
+
 }
